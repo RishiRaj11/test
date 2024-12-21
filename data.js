@@ -1,0 +1,22 @@
+export const data = [
+    { SN: 1, groupName: 'Group A', createdBy: 'Alice' },
+    { SN: 2, groupName: 'Group B', createdBy: 'Bob' },
+    { SN: 3, groupName: 'Group C', createdBy: 'Charlie' },
+    { SN: 4, groupName: 'Group D', createdBy: 'David' },
+    { SN: 5, groupName: 'Group E', createdBy: 'Eva' },
+    { SN: 6, groupName: 'Group F', createdBy: 'Frank' },
+    { SN: 7, groupName: 'Group G', createdBy: 'Grace' },
+    { SN: 8, groupName: 'Group H', createdBy: 'Hannah' },
+    { SN: 9, groupName: 'Group I', createdBy: 'Ian' },
+    { SN: 10, groupName: 'Group J', createdBy: 'Jack' },
+    { SN: 11, groupName: 'Group K', createdBy: 'Karen' },
+    { SN: 12, groupName: 'Group L', createdBy: 'Liam' },
+    { SN: 13, groupName: 'Group M', createdBy: 'Mia' },
+    { SN: 14, groupName: 'Group N', createdBy: 'Nina' },
+    { SN: 15, groupName: 'Group O', createdBy: 'Oscar' },
+    { SN: 16, groupName: 'Group P', createdBy: 'Paul' },
+    { SN: 17, groupName: 'Group Q', createdBy: 'Quinn' },
+    { SN: 18, groupName: 'Group R', createdBy: 'Rachel' },
+    { SN: 19, groupName: 'Group S', createdBy: 'Sam' },
+    { SN: 20, groupName: 'Group T', createdBy: 'Tom' }
+  ];
